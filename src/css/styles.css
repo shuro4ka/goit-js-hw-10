@@ -18,3 +18,26 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.countries_name {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.country {
+  display: flex;
+  align-items: center;
+}
+
+.country_name {
+  display: inline-block;
+}
+
+.country_title {
+  display: flex;
+  align-items: center;
+}
+
+.country_title h2 {
+  margin-left: 10px;
+}
